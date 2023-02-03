@@ -1,0 +1,32 @@
+h1 {
+    color:rgb(255,255,255);
+    text-align: center;
+    font-size: 34px;
+    background-color: rgb(0,143,57);
+}
+.font-family{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgba(224,255,255,0.5);
+}
+
+.link{
+    
+    font-size: 22px;
+    
+}
+
+.hamburguesa{
+    color: rgb(255, 0, 0);
+}
+
+.pizza{
+    color: rgb(0,0,255);
+}
+
+.perro-caliente{
+    color: rgba(126, 59, 134, 0.5);
+}
